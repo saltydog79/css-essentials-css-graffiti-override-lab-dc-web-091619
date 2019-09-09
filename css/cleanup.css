@@ -1,1 +1,26 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+  display: none;
+}
+/*this removes the center foremost tag*/
+
+#wall div#tag-2 {
+  display: none;
+}
+/*this removes the panda and arrow graphics*/
+
+div#wall div#tag-3.slick.wicked {
+  display: none;
+}
+/*this removes the large gray tag in center left*/
+
+#wall div.parent #tag-4 {
+  display: none;
+}
+/*this removes the blue character with peace sign in the back*/
+
+div#wall div.parent #tag-5.slick {
+  display: none;
+}
+/*this removes the greenish left-hand graphic */
